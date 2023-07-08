@@ -17,3 +17,9 @@
   font-weight: 500;
   margin-top: 12px;
 }
+
+#not-found.visible {
+  display: block !important;
+  scale: 1 !important;
+  opacity: 1 !important;
+}

@@ -37,3 +37,8 @@
   font-size: 22px;
   font-weight: 500;
 }
+
+#weather-details.visible {
+  scale: 1 !important;
+  opacity: 1 !important;
+}
