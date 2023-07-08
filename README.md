@@ -10,3 +10,7 @@ https://weather-report-1aa9b.web.app/
 
 ## ENTER PLACE
 ![image](https://github.com/LifeViolation/Weather-Report/assets/128378329/1eba40d8-8889-4076-b986-32165a8e4322)
+
+# License
+This repository is unlicense.  
+as u wish :)
