@@ -1,4 +1,5 @@
 import React from "react";
+import "../css/WeatherDetails.css";
 
 export const WeatherDetails = () => {
   return (
