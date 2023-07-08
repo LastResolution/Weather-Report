@@ -1,4 +1,5 @@
 import React from "react";
+import "../css/SearchBox.css";
 
 export const SearchBox = () => {
   return (
