@@ -6,9 +6,12 @@
 .pnp.js
 
 #firebase
-./firebase
+/firebase
 .firebaserc
 firebase.json
+
+#setting
+setting.ts
 
 # testing
 /coverage
