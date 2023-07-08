@@ -1,5 +1,6 @@
 import React from "react";
 import notFoundImage from "../images/404.png";
+import "../css/NotFound.css";
 
 export const NotFound = () => {
   return (
