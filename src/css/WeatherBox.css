@@ -1,5 +1,7 @@
 #weather-box {
   text-align: center;
+  scale: 0;
+  opacity: 0;
 }
 
 #weather-box img {
