@@ -10,9 +10,6 @@
 .firebaserc
 firebase.json
 
-#setting
-setting.ts
-
 # testing
 /coverage
 
